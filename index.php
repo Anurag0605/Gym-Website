@@ -1,7 +1,4 @@
 <!-- Anurag Yadav 
-SEIT-B (Batch->3)
-Roll Number: 48 -->
-
 
 <!-- PHP Script -->
 
